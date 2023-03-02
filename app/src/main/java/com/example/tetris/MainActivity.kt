@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
 
         // -------------------------------------------------
-        val dir: String = "Diyorbek"
+
         val btNowGame = findViewById<Button>(R.id.btr_now_game)
         val resetScore = findViewById<Button>(R.id.btr_reset_score)
         val exit = findViewById<Button>(R.id.btr_exit)
