@@ -56,5 +56,8 @@ class MainActivity : AppCompatActivity() {
         val highScore = "Высокий балл : ${preferences.getHighScore()}"
         tvHighScore?.text = highScore
         println(tvHighScore?.text)
+
+
+
     }
 }
