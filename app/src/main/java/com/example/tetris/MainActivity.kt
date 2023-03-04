@@ -57,10 +57,5 @@ class MainActivity : AppCompatActivity() {
         tvHighScore?.text = highScore
         println(tvHighScore?.text)
 
-
-
-
-
-
     }
 }
